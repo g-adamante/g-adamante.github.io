@@ -5,19 +5,19 @@ permalink:           pretty
 title:               Progress
 tagline:             A responsive blog theme that illustrates reading progress. Suited for continous reading.
 url:                 https://g-adamante.github.io
-baseurl:             /
+baseurl:             
 analytics_id:
 
 # Owner/author information
 owner:
-  name:           Alex Russell
+  name:           Gabriel Adamante
   avatar:         avatar.png
   bio:            "Designer."
-  email:          alex@collectivelymade.com
-  twitter:        alexanderussell
-  github:         alexanderussell
-  instagram:      alexanderussell
-  dribbble:       alexanderussell
+  email:          bla@bla.com
+  twitter:        bla
+  github:         bla
+  instagram:      bla
+  dribbble:       bla
   location:       "Lincoln, NE"
 
 
