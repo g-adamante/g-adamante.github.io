@@ -4,7 +4,7 @@ title: "Craft Beer"
 date: 2016-09-07
 categories:
   - Juice
-description: 
+description: Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore.
 image: https://unsplash.it/2000/1200?random
 image-sm: https://unsplash.it/500/300?random
 ---
