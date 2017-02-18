@@ -8,20 +8,53 @@ description: Não há um bom blog sem um post de Hello World. Esse é o meu.
 image: https://source.unsplash.com/collection/452289/daily
 image-sm: https://source.unsplash.com/collection/452289/daily
 ---
-Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
+# Não há um bom blog sem um post de Hello World. Esse é o meu.
 
-*   Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.
-*   Church-key crucifix messenger bag health goth
-*   Try-hard artisan direct trade
-*   Cold-pressed selfies
+## Por que um blog?
 
-1.  Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.
-2.  Church-key crucifix messenger bag health goth
-3.  Try-hard artisan direct trade
-4.  Cold-pressed selfies
+Tenho três objetivos principais com essa página:
 
-### Subway tile
+*   Catalogar minhas ideias
+*   Criar um hábito de escrita pouco mais regular
+*   Me sentir culpado caso pare de escrever
 
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table [street art](#) fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
+Não espero atingir grandes massas de leitores, pois entendo que os assuntos sobre que vou escrever aqui dificilmente chamam atenção de muita gente.  
+Mas se fizerem, ótimo.  
+Só não pretendo nutrir essa expectativa.
 
-<figure><img src="https://unsplash.it/2000/1200?image=1003" alt="Placeholder"></figure>
+Não sei qual será a frequência de postagem por aqui, mas espero trabalhar com posts grandes e bem elaborados, que podem tomar bastante tempo no processo de criação e desenvolvimento da ideia. Os contos sempre me surgem aleatoriamente, e talvez demorem mais ainda para aparecer.
+
+Vou começar a popular aqui com alguns artigos e contos que já foram publicados em outros meios.
+
+Além disso, eu tenho alguns assuntos já engatilhados para discutir, que estão me intrigando ultimamente.
+
+## Possíveis posts:
+
+*   Tomada de Decisão, processos de pensamento e heurísticas. Ou: Como tomar decisões racionais.
+
+*   A moralidade de se comer carne.
+
+*   Egoísmo racional: A irracionalidade e impossibilidade do Altruísmo
+
+*   _Concorrência de Moedas Criptográficas (é uma noção vaga, acho que pode demorar bastante.)_
+
+*   _Blockchain e Logística (especificamente redes de energia e capacidade de processamento)_
+
+*   _Blockchain e o Governo_
+
+*   Modificação Genética Arquitetada pelo Homem
+
+*   Inteligência Artificial e suas implicações
+
+*   A identidade: O que te faz humano? Como nos diferenciamos de outros animais? Como nos diferenciamos de máquinas?
+
+*   A necessidade de principios filosóficos claramente definidos
+
+*   Filosofia Pessoal: o ocidente, estoicismo, objetivismo, libertarianismo e mais algumas coisinhas.
+
+## Ferramentas de Trabalho: Como esse blog foi criado
+
+Estou usando o [GitHub Pages](https://pages.github.com/), com [Jekyll ](https://jekyllrb.com/) e [Trophy](https://github.com/thomasvaeth/trophy-jekyll). As imagens são cedidas generosamente do [Unsplash](https://unsplash.com/), e vão mudar diariamente, graças à linda API deles.
+
+Obrigado [thomasvaeth](https://github.com/thomasvaeth) por fazer um tema tão rápido e tão bonito.  
+E obrigado ao GitHub e ao Tom Preston-Werner por fazerem páginas estáticas serem de tão simples manutenção e carregamento.
