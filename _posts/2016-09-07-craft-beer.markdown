@@ -35,23 +35,14 @@ Não tenho um tema específico para o blog, mas já tenho alguns assuntos engati
 Apenas algumas ideias. Podem mudar, mas acredito que muitos deles vêm por aí.
 
 *   Tomada de Decisão, processos de pensamento e heurísticas. Ou: Como tomar decisões racionais.
-
 *   Concorrência de Moedas Criptográficas (é uma noção vaga, acho que pode demorar bastante.)
-
 *   Egoísmo racional: A irracionalidade e impossibilidade do Altruísmo
-
 *   A moralidade de se comer carne.
-
 *   A identidade: O que te faz humano? Como nos diferenciamos de outros animais? Como nos diferenciamos de máquinas?
-
 *   Inteligência Artificial e suas implicações
-
 *   Blockchain e Logística (especificamente redes de energia e capacidade de processamento)
-
 *   Blockchain e o Governo
-
 *   Modificação Genética Arquitetada pelo Homem
-
 *   A necessidade de princípios filosóficos claramente definido
 
 ### Ferramentas de Trabalho: Como esse blog foi criado
