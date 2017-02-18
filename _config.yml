@@ -26,7 +26,7 @@ markdown: kramdown
 permalink: /:title/
 
 #amp
-ampdir: /amp/
+ampdir: amp
 
 # Sass
 sass:
@@ -34,9 +34,3 @@ sass:
 
 # Gems
 gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer, amp-jekyll]
-
-gems:
-   - jekyll-paginate
-   - octopress-autoprefixer
-   - amp-jekyll
-   - jekyll-sitemap=
