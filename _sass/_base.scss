@@ -75,9 +75,9 @@ h1 {
     font-size: $fontSize + 0.5em;
   }
 
-    -webkit-box-shadow: 6px 17px 40px -2px rgba(0,0,0,0.55);
-    -moz-box-shadow: 6px 17px 40px -2px rgba(0,0,0,0.55);
-    box-shadow: 6px 17px 40px -2px rgba(0,0,0,0.55);    
+    -webkit-text-shadow: 6px 17px 40px -2px rgba(0,0,0,0.55);
+    -moz-text-shadow: 6px 17px 40px -2px rgba(0,0,0,0.55);
+    text-shadow: 6px 17px 40px -2px rgba(0,0,0,0.55);    
 }
 
 h2 {
