@@ -2,8 +2,9 @@
 title: Tecnologias mais Interessantes de 2016
 date: 2016-12-27 15:23:00 Z
 categories:
-- Outros
-description: Não há um bom blog sem um post de Hello World. Esse é o meu.
+- Artigos
+- Tecnologia
+description: Um apanhado das tecnologias mais interessantes de 2016.
 image: https://source.unsplash.com/user/nasa/daily
 image-sm: https://source.unsplash.com/user/nasa/daily
 layout: post
