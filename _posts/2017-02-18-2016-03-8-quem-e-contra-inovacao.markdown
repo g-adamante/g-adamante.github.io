@@ -1,5 +1,5 @@
 ---
-title: Quem é Contra Inovacao
+title: Quem é Contra Inovação
 date: 2017-02-18 22:16:00 Z
 ---
 
