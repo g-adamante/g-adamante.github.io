@@ -47,7 +47,7 @@ Apenas algumas ideias. Podem mudar, mas acredito que muitos deles vêm por aí.
 
 ### Ferramentas de Trabalho: Como esse blog foi criado
 
-Estou usando o [GitHub Pages](https://pages.github.com/), com [Jekyll ](https://jekyllrb.com/) e [Trophy](https://github.com/thomasvaeth/trophy-jekyll). As imagens são cedidas generosamente pelo [Unsplash](https://unsplash.com/), e vão mudar diariamente, graças à API deles. Estou usando o [Forestry](https://forestry.io) para gerenciar páginas em Jekyll visualmente, com editor em Markdown e WYSIWYG.
+Estou usando o [GitHub Pages](https://pages.github.com/), com [Jekyll ](https://jekyllrb.com/) e [Trophy](https://github.com/thomasvaeth/trophy-jekyll). As imagens são cedidas generosamente pelo [Unsplash](https://unsplash.com/), e vão mudar diariamente, graças à API deles. Estou usando o [Forestry](https://forestry.io) para gerenciar os posts visualmente, com editor em Markdown e WYSIWYG.
 
 Obrigado [thomasvaeth](https://github.com/thomasvaeth) por fazer um tema tão rápido e tão bonito.  
 E obrigado ao GitHub e ao Tom Preston-Werner por fazerem páginas estáticas serem de tão simples manutenção e implementação.
