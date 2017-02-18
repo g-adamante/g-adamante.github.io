@@ -1,5 +1,5 @@
 ---
-title: As 4 Tecnologias mais Interessantes de 2016
+title: Tecnologias mais Interessantes de 2016
 date: 2017-02-18 15:23:00 Z
 categories:
 - Outros
