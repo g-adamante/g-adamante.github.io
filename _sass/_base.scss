@@ -75,7 +75,6 @@ h1 {
     font-size: $fontSize + 0.5em;
   }
        text-shadow: 2px 2px #000;
-       white-space:nowrap;
 }
 
 h2 {
@@ -165,4 +164,15 @@ span {
   color: $color-white;
   background-color: $color-alpha;
   text-shadow: none;
+}
+
+#main
+{
+     white-space:nowrap;
+}
+
+@media only screen and (max-width: 315px) {
+    #main {
+       white-space:normal;
+    }
 }
