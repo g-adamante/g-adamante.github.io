@@ -9,11 +9,12 @@ image-sm: https://source.unsplash.com/collection/452289/daily
 layout: post
 ---
 
-> Estou sempre vasculhando notícias sobre tecnologia e lendo tudo o que posso sobre o assunto.\
-> Resolvi fazer um sumário sobre as mais empolgantes de 2016. São todas tecnologias que tiveram avanços significativos, e só devem deslanchar a partir daí!\
-> Eu falo um pouquinho sobre \*\*Inteligência Artificial \*\*,**Realidade Virtual, Blockchain e Modificação Genética.**\
-> Boa leitura!
 
+
+    Estou sempre vasculhando notícias sobre tecnologia e lendo tudo o que posso sobre o assunto. Resolvi fazer um sumário sobre as mais empolgantes de 2016. São todas tecnologias que tiveram avanços significativos, e só devem deslanchar a partir daí! 
+    Eu falo um pouquinho sobre Inteligência Artificial, Realidade Virtual, Blockchain e Modificação Genética. 
+    Boa leitura!
+    
 ## AI: Inteligência Artificial
 
 ![](https://cdn-images-1.medium.com/max/600/0\*RfvvbK6onehaGRs4.png)
@@ -206,7 +207,7 @@ Supondo que estes viessem a nascer, e conforme se desenvolverem como pessoas, re
 
 Essas pessoas têm filhos, e novas gerações modificadas geneticamente vêm a nascer.
 
-Não vemos a*curto prazo *nem um tipo de downside: porém não podemos concluir que não surgirão problemas decorrentes dessas modificações no futuro.
+Não vemos a\*curto prazo \*nem um tipo de downside: porém não podemos concluir que não surgirão problemas decorrentes dessas modificações no futuro.
 
 Quem sabe um desses genes ativa algum outro tipo de anomalia, criando uma doença bem mais destrutiva e deformadora posteriormente?
 
