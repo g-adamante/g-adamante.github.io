@@ -25,9 +25,12 @@ exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
 markdown: kramdown
 permalink: /:title/
 
+#amp
+ampdir: amp
+
 # Sass
 sass:
   style: compressed
 
 # Gems
-gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer, amp-jekyll]
