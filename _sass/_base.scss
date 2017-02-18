@@ -85,14 +85,12 @@ h2 {
   @media (min-width: $mq-md) {
     font-size: 2em;
   }
-        text-shadow: 2px 2px #000;
 }
 
 h3 {
   margin-bottom: 0.1em;
 
   font-size: 1.5em;
-        text-shadow: 2px 2px #000;
 }
 
 h4 {
@@ -100,7 +98,6 @@ h4 {
 
   font-size: 1.25em;
     
-        text-shadow: 2px 2px #000;
 }
 
 p {
@@ -153,6 +150,11 @@ cite {
 ol, ul {
   margin: 0;
   padding: 0;
+}
+
+span {
+    text-shadow: 2px 2px #000;
+    
 }
 
 /**
