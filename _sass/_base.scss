@@ -26,6 +26,22 @@ $mq-xxl: 114em;
   box-sizing: border-box;
 }
 
+@media only screen and (max-width: 315px) {
+    #h1 {
+     $fontSize: 2.5em;
+  white-space:normal;
+    
+  @media (min-width: $mq-md) {
+    font-size: $fontSize;
+  }
+
+  @media (min-width: $mq-xl) {
+    font-size: $fontSize + 0.5em;
+  }
+       text-shadow: 2px 2px #000;
+    }
+}
+
 body {
   font-family: $font-body;
   font-feature-settings: 'liga' 0;
@@ -66,7 +82,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   $fontSize: 2.5em;
-
+  white-space:nowrap;
+    
   @media (min-width: $mq-md) {
     font-size: $fontSize;
   }
@@ -164,15 +181,4 @@ span {
   color: $color-white;
   background-color: $color-alpha;
   text-shadow: none;
-}
-
-#main
-{
-     white-space:nowrap;
-}
-
-@media only screen and (max-width: 315px) {
-    #main {
-       white-space:normal;
-    }
 }
