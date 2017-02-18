@@ -14,8 +14,8 @@ default_img:
 
 # Profile settings
 name: Gabriel Adamante
-profile_img: 
-profile: 
+profile_img: /assets/autor.jpg
+profile: Tocantinense nascido em Curitiba. Apaixonado por Literatura, Tecnologia e Hiking. Trabalhando na Contabilizei para ajudar micro e pequenos empresários economizar e escapar da burocracia. 
 social:
   github: http://github.com/g-adamante
   facebook: http://facebook.com/gabriel.adamante
