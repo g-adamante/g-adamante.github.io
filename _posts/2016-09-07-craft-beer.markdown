@@ -28,7 +28,7 @@ Vou começar a popular aqui com alguns artigos e contos que já foram publicados
 
 Além disso, eu tenho alguns assuntos já engatilhados para discutir, que estão me intrigando ultimamente.
 
-### Possíveis posts:
+Possíveis posts:
 
 *   Tomada de Decisão, processos de pensamento e heurísticas. Ou: Como tomar decisões racionais.
 
@@ -52,7 +52,7 @@ Além disso, eu tenho alguns assuntos já engatilhados para discutir, que estão
 
 *   Filosofia Pessoal: o ocidente, estoicismo, objetivismo, libertarianismo e mais algumas coisinhas.
 
-### Ferramentas de Trabalho: Como esse blog foi criado
+### <span style="font-weight: normal;">Ferramentas de Trabalho: Como esse blog foi criado</span>
 
 Estou usando o [GitHub Pages](https://pages.github.com/), com [Jekyll ](https://jekyllrb.com/) e [Trophy](https://github.com/thomasvaeth/trophy-jekyll). As imagens são cedidas generosamente pelo [Unsplash](https://unsplash.com/), e vão mudar diariamente, graças à API deles.
 
