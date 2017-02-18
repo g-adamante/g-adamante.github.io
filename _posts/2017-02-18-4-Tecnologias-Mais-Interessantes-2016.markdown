@@ -9,7 +9,6 @@ image-sm: https://source.unsplash.com/collection/452289/daily
 layout: post
 ---
 
-
 Estou sempre vasculhando notícias sobre tecnologia e lendo tudo o que posso sobre o assunto. Resolvi fazer um sumário sobre as mais empolgantes de 2016. São todas tecnologias que tiveram avanços significativos, e só devem deslanchar a partir daí! 
 Eu falo um pouquinho sobre Inteligência Artificial, Realidade Virtual, Blockchain e Modificação Genética. 
 Boa leitura!
