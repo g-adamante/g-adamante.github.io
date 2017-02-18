@@ -1,5 +1,5 @@
 ---
-title: O eterno regresso tupiniquim
+title: O Eterno Regresso Tupiniquim
 date: 2016-03-10 15:23:00 Z
 categories:
 - Artigos
