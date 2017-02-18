@@ -17,7 +17,10 @@ name: Gabriel Adamante
 profile_img: 
 profile: 
 social:
-  github: 
+  github: g-adamante
+  facebook: gabriel.adamante
+  instagram: adamante
+  linkedin: g-adamante
 
 # Build settings
 include: ["_categories"]
