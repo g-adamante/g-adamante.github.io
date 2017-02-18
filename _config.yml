@@ -3,7 +3,7 @@ email: gabriel.henrique.a(@)gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics: UA-92197570-1
 
 # SEO settings
 title: Gabriel Adamante
