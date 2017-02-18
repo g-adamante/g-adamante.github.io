@@ -1,6 +1,6 @@
 ---
 title: Tecnologias mais Interessantes de 2016
-date: 2017-02-18 15:23:00 Z
+date: 2016-12-27 15:23:00 Z
 categories:
 - Outros
 description: Não há um bom blog sem um post de Hello World. Esse é o meu.
