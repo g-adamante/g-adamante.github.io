@@ -54,7 +54,7 @@ Além disso, eu tenho alguns assuntos já engatilhados para discutir, que estão
 
 ### Ferramentas de Trabalho: Como esse blog foi criado
 
-Estou usando o [GitHub Pages](https://pages.github.com/), com [Jekyll ](https://jekyllrb.com/) e [Trophy](https://github.com/thomasvaeth/trophy-jekyll). As imagens são cedidas generosamente do [Unsplash](https://unsplash.com/), e vão mudar diariamente, graças à linda API deles.
+Estou usando o [GitHub Pages](https://pages.github.com/), com [Jekyll ](https://jekyllrb.com/) e [Trophy](https://github.com/thomasvaeth/trophy-jekyll). As imagens são cedidas generosamente pelo [Unsplash](https://unsplash.com/), e vão mudar diariamente, graças à API deles.
 
 Obrigado [thomasvaeth](https://github.com/thomasvaeth) por fazer um tema tão rápido e tão bonito.  
-E obrigado ao GitHub e ao Tom Preston-Werner por fazerem páginas estáticas serem de tão simples manutenção e carregamento.
+E obrigado ao GitHub e ao Tom Preston-Werner por fazerem páginas estáticas serem de tão simples manutenção e implementação.
