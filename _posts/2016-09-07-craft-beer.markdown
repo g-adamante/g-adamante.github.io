@@ -18,7 +18,7 @@ Tenho três objetivos principais com essa página:
 *   Criar um hábito de escrita pouco mais regular
 *   Me sentir culpado caso pare de escrever
 
-É isso. Simples.  
+É isso. Simples.
 
 Não espero atingir grandes massas de leitores, pois entendo que os assuntos sobre que vou escrever aqui dificilmente chamam atenção de muita gente.  
 Mas se fizerem, ótimo.  
@@ -34,11 +34,15 @@ Não tenho um tema específico para o blog, mas já tenho alguns assuntos engati
 
 *   Tomada de Decisão, processos de pensamento e heurísticas. Ou: Como tomar decisões racionais.  
 
-*   A moralidade de se comer carne.  
+*   Concorrência de Moedas Criptográficas (é uma noção vaga, acho que pode demorar bastante.)  
 
 *   Egoísmo racional: A irracionalidade e impossibilidade do Altruísmo  
 
-*   Concorrência de Moedas Criptográficas (é uma noção vaga, acho que pode demorar bastante.)  
+*   A moralidade de se comer carne.  
+
+*   A identidade: O que te faz humano? Como nos diferenciamos de outros animais? Como nos diferenciamos de máquinas?  
+
+*   Inteligência Artificial e suas implicações  
 
 *   Blockchain e Logística (especificamente redes de energia e capacidade de processamento)  
 
@@ -46,10 +50,8 @@ Não tenho um tema específico para o blog, mas já tenho alguns assuntos engati
 
 *   Modificação Genética Arquitetada pelo Homem  
 
-*   Inteligência Artificial e suas implicações  
-
-*   A identidade: O que te faz humano? Como nos diferenciamos de outros animais? Como nos diferenciamos de máquinas?
 *   A necessidade de princípios filosóficos claramente definidos
+
 *   Filosofia Pessoal: o ocidente, estoicismo, objetivismo, libertarianismo e mais algumas coisinhas.
 
 ### Ferramentas de Trabalho: Como esse blog foi criado
