@@ -15,7 +15,7 @@ Boa leitura!
     
 ## AI: Inteligência Artificial
 
-![](/uploads/ai-race.PNG)
+![](/uploads/ai-race.png)
 
 As máquinas estão ficando cada vez mais inteligentes. Você se sente preparado para lidar com isso?
 
@@ -33,7 +33,7 @@ Mas as possibilidades são quase infinitas; destaco uma que chamou atenção aqu
 
 Mas a aplicação de AI que mais teve avanços no ano, que me deixa impressionado, e ao mesmo tempo assustado é o Google Brain.
 
-![](/uploads/cat.JPEG)
+![](/uploads/cat.jpeg)
 
 Esse gato ai na foto é o primeiro sucesso definitivo dessa iniciativa, que aconteceu em 2012: a máquina conseguiu, ao assistir milhares videos do Youtube, identificar um gato, sem que nós para ela como era um gato.
 
@@ -63,7 +63,7 @@ Especialmente em relação ao Google Assistant, esperem cada vez mais previsões
 
 Se você está indo para Paris, por exemplo, e pesquisou por passagens, comprou e recebeu um e-mail de confirmação através do gmail.
 
-![](/uploads/googlenow.PNG)
+![](/uploads/googlenow.png)
 
 O Google sabe exatamente quando você vai viajar, e te oferece as melhores opções de alimentação na região, entretenimento, ingressos e etc, baseado em seus gostos, os restaurantes que você visitou anteriormente, lugares que foi e afins.
 
@@ -81,13 +81,13 @@ Mas o objetivo é que a inteligência seja melhorada sem programação específi
 
 Isso é feito através de deep learning e vai ficar cada vez mais intenso.
 
-![](/uploads/deeplearning.JPG)
+![](/uploads/deeplearning.jpg)
 
 Uma das principais tecnologias por trás disso são os Artificial Neural Networks, que tentam imitar um cérebro humano na arquitetura de aprendizagem da máquina. E o mais legal é que realmente estão tentando replicar o funcionamento do cérebro: [este paper](https://arxiv.org/abs/1612.03770) demonstra como ao imitar o sistema de neurogênese do hipocampo em adultos, se pode enfrentar problemas de deep neural networks.
 
 ## VR, AR, e MR.
 
-### **Primeiro: você sabe a diferença entre realidade virtual, realidade aumentada, e realidade mista?**
+Primeiro: você sabe a diferença entre realidade virtual, realidade aumentada, e realidade mista? 
 
 É bom saber, pois essas coisas vão começar a fazer parte de nossa vida de uma maneira cada vez mais recorrente. Basicamente:
 
@@ -117,13 +117,13 @@ Essa tecnologia nos permite ver o mundo real ao mesmo tempo em que se vê objeto
 
 As aplicações de Mixed Reality são vastas e muito interessantes. Pense, por exemplo, no uso dele para cirurgiões: poderiam consultar um[modelo-holograma do órgão que estão operando em tempo real como referência](http://ieeexplore.ieee.org/document/491415/).
 
-![](/uploads/doctors.JPEG)
+![](/uploads/doctors.jpeg)
 
 As iniciativas mais interessantes em MR são [HoloLens ](https://www.microsoft.com/microsoft-hololens/en-us)e o [Magic Leap.](https://www.magicleap.com/)
 
 Anote esse nome: **Magic Leap**.
 
-![](/uploads/magicleap.JPG)
+![](/uploads/magicleap.jpg)
 
 É uma das empresas mais interessantes e secretas do mundo. Não há muita informação sobre eles, mas sabemos que foi a empresa com a maior c-round de financiamento já feita na história, e o Google colocou muito dinheiro lá.
 
@@ -141,7 +141,7 @@ Sabe-se lá como vamos diferenciar a \*\*realidade \*\*da \*\*realidade virtual 
 
 ## **Blockchain**
 
-![](/uploads/blockchain.PNG)
+![](/uploads/blockchain.png)
 
 O Bitcoin em si já é fantástico.
 
@@ -159,7 +159,7 @@ Além disso, o próprio [Ethereum ](https://www.ethereum.org/)com seus [Smart Co
 
 É uma questão de tempo para que aconteça o boom do Blockchain: é imprevisível, causa um impacto enorme e, depois de ter ocorrido, surgem frequentemente diversas explicações que o tentam afirmar como menos aleatório e mais previsível do que na realidade acontece. Ou um [evento Cisne Negro](https://pt.wikipedia.org/wiki/The_Black_Swan_%28livro%29), como diria [Nassim Nicholas Taleb.](https://pt.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 
-![](/uploads/extremistan.PNG)
+![](/uploads/extremistan.png)
 
 Para quem gosta de gráficos, é um sistema Extremistan — não vai ser possível saber exatamente quem vai levar a boa com Blockchain (qual empresa, em que momento), mas quando ocorrer, vai ser em explosão vertiginosa, enquanto todas as outras ficam dentro da regra — os extremos importam.
 
@@ -167,7 +167,7 @@ Para quem gosta de gráficos, é um sistema Extremistan — não vai ser possív
 
 ## **Genética Humana**
 
-![](/uploads/genetics.JPG)Particularmente, não gosto muito deste, porém não há como negar que será uma parte importante no futuro. Não fiz a análise ética e moral, mas fico curioso sobre o que vocês têm a dizer sobre isso.
+![](/uploads/genetics.jpg)Particularmente, não gosto muito deste, porém não há como negar que será uma parte importante no futuro. Não fiz a análise ética e moral, mas fico curioso sobre o que vocês têm a dizer sobre isso.
 
 Basicamente: o [CRISPR ](http://gizmodo.uol.com.br/tudo-o-que-voce-precisa-saber-sobre-a-crispr-nova-ferramenta-de-edicao-de-dna/)é uma tecnologia revolucionária de edição de genoma, que permite manipular com precisão extrema.
 
@@ -195,7 +195,7 @@ Colocando em exemplos:
 
 Começam as experimentações com o CRISPR, que mostram alguns resultados positivos mas nada definitivo. Eventualmente algum pesquisador ativa um gene X e consegue curar câncer, AIDS, e etc.
 
-![](/uploads/genetics2.JPG)
+![](/uploads/genetics2.jpg)
 
 **Exemplo de Prejuízos Massivos:**
 
@@ -221,4 +221,4 @@ Tendemos a ignorar os efeitos ocultos das coisas, ou em longo prazo, apenas nos 
 
 Em gráficos:
 
-![](/uploads/iantrogenics.PNG)
+![](/uploads/iantrogenics.png)
