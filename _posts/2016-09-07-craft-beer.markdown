@@ -32,6 +32,8 @@ Não tenho um tema específico para o blog, mas já tenho alguns assuntos engati
 
 ### Possíveis posts:
 
+Apenas algumas ideias. Podem mudar, mas acredito que muitos deles vêm por aí.
+
 *   Tomada de Decisão, processos de pensamento e heurísticas. Ou: Como tomar decisões racionais.  
 
 *   Concorrência de Moedas Criptográficas (é uma noção vaga, acho que pode demorar bastante.)  
