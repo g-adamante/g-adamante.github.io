@@ -4,7 +4,8 @@ date: 2016-03-08 15:23:00 Z
 categories:
 - Artigos
 - Economia
-description: As figuras que se posicionam contra a inovação parecem ser sempre as mesmas.
+description: As figuras que se posicionam contra a inovação parecem ser sempre as
+  mesmas.
 image: https://source.unsplash.com/user/nasa/daily
 image-sm: https://source.unsplash.com/user/nasa/daily
 layout: post
