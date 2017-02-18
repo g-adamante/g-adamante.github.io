@@ -4,8 +4,8 @@ date: 2017-02-18 15:23:00 Z
 categories:
 - Outros
 description: Não há um bom blog sem um post de Hello World. Esse é o meu.
-image: https://source.unsplash.com/collection/452289/daily
-image-sm: https://source.unsplash.com/collection/452289/daily
+image: https://source.unsplash.com/user/nasa/daily
+image-sm: https://source.unsplash.com/user/nasa/daily
 layout: post
 ---
 
@@ -47,7 +47,7 @@ O mais interessante é que quem trabalha na área entende que a tradução pode 
 
 Quando (se) isso acontecer, a uma das aplicações que mais irão se beneficiar serão os Chatbots, que cada dia mais vão se melhorar passar a ser mais úteis. No futuro (não tão longínquo), eles serão capazes de ter conversas basicamente humanas, e causar todo o tipo de sentimento que temos ao conversar com outra pessoa.
 
-![](/uploads/her.GIF)
+![](/uploads/her.gif)
 
 *Alie isso a VR: Seria o filme Her apenas uma premonição?*
 
