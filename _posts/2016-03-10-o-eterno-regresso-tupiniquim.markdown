@@ -4,7 +4,8 @@ date: 2016-03-10 15:23:00 Z
 categories:
 - Artigos
 - Economia
-description: A repetição dos erros do passado parece ridícula, mas nunca deixamos de o fazer.
+description: A repetição dos erros do passado parece ridícula, mas nunca deixamos
+  de o fazer.
 image: https://source.unsplash.com/collection/541/daily
 image-sm: https://source.unsplash.com/collection/541/daily
 layout: post
