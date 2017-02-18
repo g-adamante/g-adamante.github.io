@@ -1,36 +1,45 @@
-# Site settings
-email: gabriel.henrique.a(@)gmail.com 
-baseurl: ""
+---
+title: Gabriel Adamante
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: gabriel.henrique.a(@)gmail.com
+baseurl: ''
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: UA-92197570-1
-
-# SEO settings
-title: Gabriel Adamante
 description: Artigos, Contos e Anotações
-url: ""
+url: ''
 twitter_username: 
 default_img: 
-
-# Profile settings
 name: Gabriel Adamante
 profile_img: https://g-adamante.github.io/assets/autor.JPG
-profile: Tocantinense nascido em Curitiba. Apaixonado por Literatura, Tecnologia e por caminhar. Trabalhando com a Contabilizei, ajudando a desburocratizar e simplificar a vida de micro e pequenos empresários. 
+profile: Tocantinense nascido em Curitiba. Apaixonado por Literatura, Tecnologia e
+  por caminhar. Trabalhando com a Contabilizei, ajudando a desburocratizar e simplificar
+  a vida de micro e pequenos empresários.
 social:
   github: http://github.com/g-adamante
   facebook: http://facebook.com/gabriel.adamante
   instagram: http://instagram.com/adamante
   linkedin: http://linkedin.com/in/g-adamante/
-
-# Build settings
-include: ["_categories"]
-exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
+include:
+- _categories
+exclude:
+- _screenshots
+- Gemfile
+- Gemfile.lock
+- LICENSE.txt
+- README.md
 markdown: kramdown
-permalink: /:title/
-
-# Sass
+permalink: "/:title/"
 sass:
   style: compressed
-
-# Gems
-gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+gems:
+- jekyll-paginate
+- jekyll-sitemap
+- octopress-autoprefixer

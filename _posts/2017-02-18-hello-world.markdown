@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Hello World
-date: 2017-02-18 15:23
+date: 2017-02-18 15:23:00 Z
 categories:
 - Outros
+layout: post
 description: Não há um bom blog sem um post de Hello World. Esse é o meu.
 image: https://source.unsplash.com/collection/452289/daily
 image-sm: https://source.unsplash.com/collection/452289/daily
 ---
+
 ## Não há um bom blog sem um post de Hello World. Esse é o meu.
 
 ### Por que um blog?
