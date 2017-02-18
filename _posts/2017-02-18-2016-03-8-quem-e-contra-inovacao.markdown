@@ -1,6 +1,6 @@
 ---
-title: 2016 03 8 Quem E Contra Inovacao
-date: 2017-02-18 22:16:44.854000000 Z
+title: Quem é Contra Inovacao
+date: 2017-02-18 22:16:00 Z
 ---
 
 Era véspera de Ano novo, 1879, quando Thomas Edison fez a primeira demonstração pública da lâmpada incandescente, na região rural e esparsamente populada de Menlo Park. Edison iluminou uma rua inteira com sua invenção. Cerca de três mil pessoas foram para aquela cidadezinha, anteriormente sem atrativos, para observar o “[Mago de Menlo Park](http://www.menloparkmuseum.org/history/thomas-edison-and-menlo-park/ "Mago de Menlo Park")” e sua luz, fazendo com que a Companhia Ferroviária da Pennsylvania tivesse de aumentar o número de [trens naquela linha](http://www.history.com/this-day-in-history/edison-demonstrates-incandescent-light "trens naquela linha"). Pouco tempo depois, Edison transformou um galpão abandonado em uma fábrica de lâmpadas e começou a produção em escala industrial.
