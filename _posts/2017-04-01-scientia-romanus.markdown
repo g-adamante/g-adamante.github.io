@@ -5,8 +5,8 @@ categories:
 - Artigos
 - Filosofia
 description: Divagação sobre a consciência e o significado.
-image: https://source.unsplash.com/collection/364/daily
-image-sm: https://source.unsplash.com/collection/364/daily
+image: https://source.unsplash.com/collection/645225/daily
+image-sm: https://source.unsplash.com/collection/645225/daily
 layout: post
 ---
 
