@@ -9,7 +9,6 @@ image: https://source.unsplash.com/collection/364/daily
 image-sm: https://source.unsplash.com/collection/364/daily
 layout: post
 ---
-## Scientia Romanus
 
 Em uma noite quente há alguns anos, Rômulo me explicou, tateando em busca das palavras, o conceito. Não estou nem um pouco certo de onde ele tirou essa ideia, mas ela me intriga desde então. 
 
@@ -51,10 +50,10 @@ _Essa divagação foi escrita ao som de Les doigts de l'homme, albúm homônimo.
 
 ## Dicionário, ou termos notáveis:
 
-consciência: Consciência é a representação estruturada de nossas experiências. Experimentamos, através do mundo sensível e inteligível. A consciência é nossa forma de entender e lidar com aquilo que por nós é vivenciado.
+*consciência*: Consciência é a representação estruturada de nossas experiências. Experimentamos, através do mundo sensível e inteligível. A consciência é nossa forma de entender e lidar com aquilo que por nós é vivenciado.
 
-inexplorado:  Ao inexplorado associa-se à idéia que há algo que falta, que há algo restante a ser descoberto - carrega conotação de que alguma ação deve ser tomada para o deixar de ser. Ao associar o explorador àquela figura quase mítica, viril, o inexplorado se torna uma condição (passada, ao menos) sine qua non de sua existência - apenas o inexplorado dá sentido para si.
+*inexplorado*:  Ao inexplorado associa-se à idéia que há algo que falta, que há algo restante a ser descoberto - carrega conotação de que alguma ação deve ser tomada para o deixar de ser. Ao associar o explorador àquela figura quase mítica, viril, o inexplorado se torna uma condição (passada, ao menos) sine qua non de sua existência - apenas o inexplorado dá sentido para si.
 
-significado: Significado é uma representação mental cuja gravidade se é sentida. Significado se atribui à algo, estando ou não consciente de o estar fazendo. Sendo assim, quando algo é significante, independente de seu motivo, tal coisa é importante para o observador.
+*significado*: Significado é uma representação mental cuja gravidade se é sentida. Significado se atribui à algo, estando ou não consciente de o estar fazendo. Sendo assim, quando algo é significante, independente de seu motivo, tal coisa é importante para o observador.
 
-significância consciente: Quando se escolhe atribuir significado a algo de forma consciente. Utilizando dos conceitos acima, a significância consciente seria definida como a representação mental estruturada de uma experiência cuja gravidade se é sentida.
+*significância consciente*: Quando se escolhe atribuir significado a algo de forma consciente. Utilizando dos conceitos acima, a significância consciente seria definida como a representação mental estruturada de uma experiência cuja gravidade se é sentida.
