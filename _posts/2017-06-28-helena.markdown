@@ -8,7 +8,7 @@ image: https://source.unsplash.com/collection/571/daily
 image-sm: https://source.unsplash.com/collection/571/daily
 layout: post
 ---
-Enquanto começo a escrever esse texto, penso afetuosamenta nas pessoas que o inspiraram. 
+Enquanto começo a escrever esse texto, penso afetuosamente nas pessoas que o inspiraram. 
 
 Vejo seus olhos, um ao lado do outro. Percebo que são incrivelmente semelhantes. Todos olhos úmidos e incrivelmente negros, brilhantes, com seu ar de incompreensão.
 
