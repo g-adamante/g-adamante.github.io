@@ -1,0 +1,79 @@
+<div class="tab">
+    <h1>Résumé</h1>
+    <h2>Who am I?</h2>
+     <section class="profile">
+    <div class="profile__card">
+      <div class="profile__img">
+        <figure class="absolute-bg" style="background-image: url('{{ site.profile_img }}');"></figure>
+      </div>
+      <div class="profile__container">
+        <p>Nice to meet you, I'm Gabriel Adamante. <br>I am a digital marketer working on <a href="https://www.contabilizei.com.br/">Contabilizei</a>, specialized in aquisition (but with skills in retention and conversion). <br>I'm learning to code to become a technical marketer. <br> On the side, I write short stories, enjoy trekking, and breath technology and startups. </p>
+        {% if site.email or site.social %}
+          <ul class="profile__social">
+            {% if site.email %}
+              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
+            {% endif %}
+            {% for social in site.social %}
+              <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+    </div>
+  </section>
+    <section>
+    <h2>What do I do?</h2>
+        
+        <p>My Marketing Stack is:</p>
+        <ul>
+        <li><b>SEO</b></li>
+        <li><b>SEM</b></li>
+        <li><b>SMM</b></li>
+        </ul>
+        
+        <p>I do this things well, too:</p>
+        <ul>
+        <li>Retargeting</li>
+        <li>Email Marketing</li>
+        <li>Copywriting</li>        
+        <li>Landing Page Design</li>
+        </ul>
+        
+        <p>I use this tools on a regular basis:</p>
+        <ul>
+        <li>Excel</li>
+        <li>SQL</li>
+        <li>R</li>        
+        <li>HTML</li>
+        <li>Bootstrap</li>
+        </ul>
+        
+        <p>I am learning how to code:</p>
+        <ul>
+        <li>JAVA</li>
+        <li>Python</li>
+        <li>Ruby on Rails</li>
+        </ul>
+        
+        
+    </section>
+    <section>
+        <h2>My track record:</h2>
+     <li class="preview" >
+              <h2 class="preview__header">SEO</h2>
+              <p class="preview__excerpt">I have experience working everyday to grow traffic through search engines. I always had help of a very good writer with the content, but all the SEO strategy, techiniques, analysis and result are my responsabilities, and thankfully I could achieve solid growth. </p>
+          </li>
+        <li class="preview" >
+              <h2 class="preview__header">SEM</h2>
+              <p class="preview__excerpt">I have experience in optimizing account structure, keywords/search terms, budget and bidding. I've been though a steep learning curve to optimize SEM results and scale accounts.  </p>
+          </li> 
+        <li class="preview" >
+              <h2 class="preview__header">SMM</h2>
+              <p class="preview__excerpt">I also have experience setting up account structures, targeting, budgets and bidding for remarketing and aquisition.</p>
+          </li>
+        <li class="preview" >
+              <h2 class="preview__header">Writing</h2>
+              <p class="preview__excerpt">I published a short story book and was able to sell it's modest number of copies (200) though networking and social media. I have published a number of journalistic articles on economy and technology, and I still write short stories. Most recently, I started publishing a column on a Literary website.</p>
+          </li>
+    </section>
+</div>
