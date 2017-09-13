@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: gabriel.henrique.a(@)gmail.com
+email: gabriel(@)adamante.com.br
 baseurl: ''
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -18,7 +18,7 @@ url: ''
 twitter_username: 
 default_img: 
 name: Gabriel Adamante
-profile_img: https://g-adamante.github.io/assets/autor.JPG
+profile_img: https://g-adamante.github.io/assets/autor.jpg
 profile: Tocantinense nascido em Curitiba. Apaixonado por Literatura, Tecnologia e
   por caminhar. Trabalhando com a Contabilizei, ajudando a desburocratizar e simplificar
   a vida de micro e pequenos empresários.
