@@ -1,9 +1,9 @@
 ---
-title: Helena
+title: Sobre Caixas e Homo Sapiens
 date: 2017-09-17 11:38:49 Z
 categories:
 - Contos
-description: Helena, que é tantas pessoas, está presa em um labirinto.
+description: A observação analítica de um notável grupo de primatas autodenominados Homo Sapiens
 image: https://source.unsplash.com/1600x900/?square-building
 image-sm: https://source.unsplash.com/1600x900/?square-building
 layout: post
