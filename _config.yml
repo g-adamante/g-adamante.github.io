@@ -19,9 +19,8 @@ twitter_username:
 default_img: 
 name: Gabriel Adamante
 profile_img: https://g-adamante.github.io/autor.jpg
-profile: Tocantinense nascido em Curitiba. Apaixonado por Literatura, Tecnologia e
-  por caminhar. Trabalhando com a Contabilizei, ajudando a desburocratizar e simplificar
-  a vida de micro e pequenos empresários.
+profile: Tocantinense nascido em Curitiba e morando na Europa. Apaixonado por Literatura, Tecnologia e
+  por caminhar.
 social:
   github: http://github.com/g-adamante
   facebook: http://facebook.com/gabriel.adamante
@@ -37,9 +36,11 @@ exclude:
 - README.md
 markdown: kramdown
 permalink: "/:title/"
+remote_theme: chesterhow/tale
 sass:
   style: compressed
 gems:
 - jekyll-sitemap
 - jekyll-paginate
 - octopress-autoprefixer
+- jekyll-remote-theme
