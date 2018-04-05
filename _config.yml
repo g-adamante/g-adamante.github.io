@@ -1,6 +1,7 @@
 ---
 title: Gabriel Adamante
 timezone: UTC
+remote_theme: chesterhow/tale
 collections:
   posts:
     title: Posts
@@ -36,7 +37,6 @@ exclude:
 - README.md
 markdown: kramdown
 permalink: "/:title/"
-remote_theme: chesterhow/tale
 sass:
   style: compressed
 gems:
