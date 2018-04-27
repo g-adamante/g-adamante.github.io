@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "text": "Qual o primeiro signo do zodíaco?",
+        "answers": [
+            {
+                "answerid": "1",
+                "answertext": "Áries",
+                "correct": "True"
+            },
+            {
+                "answerid": "2",
+                "answertext": "Gêmeos",
+                "correct": "False"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "text": "Áries é um signo:",
+        "answers": [
+            {
+                "answerid": "1",
+                "answertext": "Tranquilo, relax.",
+                "correct": "False"
+            },
+            {
+                "answerid": "2",
+                "answertext": "Cheio de energia, animado.",
+                "correct": "True"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "text": "Touro é um signo:",
+        "answers": [
+            {
+                "answerid": "1",
+                "answertext": "Persistente, calmo, realista.",
+                "correct": "False"
+            },
+            {
+                "answerid": "2",
+                "answertext": "Explosivo, agitado e sonhador.",
+                "correct": "True"
+            }
+        ]
+    }
+]
