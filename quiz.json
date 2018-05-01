@@ -1,50 +1,31 @@
-[
+{
+  "title": "Quiz do Zodiaco.",
+  "questions": [
     {
-        "id": "1",
-        "text": "Qual o primeiro signo do zodíaco?",
-        "answers": [
-            {
-                "answerid": "1",
-                "answertext": "Áries",
-                "correct": "True"
-            },
-            {
-                "answerid": "2",
-                "answertext": "Gêmeos",
-                "correct": "False"
-            }
-        ]
+      "question": "Qual o primeiro signo do zodíaco?",
+      "answers": [
+        {
+          "is_right": true,
+          "value": "Áries."
+        },
+        {
+          "is_right": false,
+          "value": "Gêmeos."
+        }
+      ]
     },
     {
-        "id": "2",
-        "text": "Áries é um signo:",
-        "answers": [
-            {
-                "answerid": "1",
-                "answertext": "Tranquilo, relax.",
-                "correct": "False"
-            },
-            {
-                "answerid": "2",
-                "answertext": "Cheio de energia, animado.",
-                "correct": "True"
-            }
-        ]
-    },
-    {
-        "id": "3",
-        "text": "Touro é um signo:",
-        "answers": [
-            {
-                "answerid": "1",
-                "answertext": "Persistente, calmo, realista.",
-                "correct": "False"
-            },
-            {
-                "answerid": "2",
-                "answertext": "Explosivo, agitado e sonhador.",
-                "correct": "True"
-            }
-        ]
+      "question": "Áries é um signo:",
+      "answers": [
+        {
+          "is_right": false,
+          "value": "Tranquilo, relax."
+        },
+        {
+          "is_right": true,
+          "value": "Cheio de energia, animado."
+        }
+      ]
     }
-]
+  ]
+}
